@@ -4,7 +4,7 @@ import sys
 # --- Configuration ---
 # IMPORTANT: Replace this path with the actual path to your folder
 # Use a raw string (r'...') on Windows to handle backslashes correctly
-FOLDER_PATH = r'C:\Users\Koko\Desktop\New Folder'
+FOLDER_PATH = r'C:\Users\Koko\Documents\GitHub\Reverse1999Text\序章'
 # --- End Configuration ---
 
 def add_txt_extension(target_dir):
